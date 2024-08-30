@@ -1,0 +1,20 @@
+body {
+    color:black;
+    background:rgb(127, 255, 238);
+}
+header {
+    border-bottom: solid 2px black;
+    padding: 0px;
+    font-size: 32px;
+    color: black;
+}
+section {
+    background: gray;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+.machamada-texto {
+margin-right: 5%;
+}
